@@ -10,10 +10,10 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[],
-    author="Tu Nombre",
-    author_email="tuemail@example.com",
+    author="Nbravo",
+    author_email="jp@kalilinux.cl",
     description="Crea un usuario en Linux sin interacción del usuario",
-    url="https://github.com/tu-usuario/crear-usuario-linux",
+    url="https://github.com/j-p-007/crear-usuario-linux",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
